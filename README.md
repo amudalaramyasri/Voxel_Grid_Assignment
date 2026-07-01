@@ -1,1 +1,0 @@
-# Voxel_Grid_Assignment
