@@ -1,0 +1,9 @@
+tensorflow==2.16.1
+numpy>=1.26,<2.0
+opencv-python-headless==4.10.0.84
+scikit-learn==1.5.1
+matplotlib==3.9.0
+pandas==2.2.2
+streamlit==1.37.0
+anthropic>=0.34.0
+kagglehub>=0.3.0
